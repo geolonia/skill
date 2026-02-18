@@ -9,8 +9,7 @@ Geolonia Maps の Embed API、JavaScript API、ジオコーディング、マッ
 
 ```
 .claude-plugin/
-├── plugin.json                # プラグイン定義（名前・バージョン）
-└── marketplace.json           # マーケットプレイス定義（配信用）
+└── plugin.json                # プラグイン定義（名前・バージョン・著者）
 skills/
 └── maps/
     ├── SKILL.md               # メインスキル定義（自動呼び出し条件 + 基本原則）

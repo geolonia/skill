@@ -1,11 +1,15 @@
 {
   "name": "geolonia",
   "owner": {
-    "name": "miya"
+    "name": "Geolonia Inc."
+  },
+  "metadata": {
+    "description": "Geolonia Maps を使った地図アプリ開発を支援するプラグイン集",
+    "version": "1.0.0"
   },
   "plugins": [
     {
-      "name": "maps",
+      "name": "geolonia",
       "source": ".",
       "description": "Geolonia Maps を使った地図アプリ開発を支援するスキル"
     }
