@@ -1,5 +1,10 @@
 {
-  "name": "maps",
+  "name": "geolonia",
   "description": "Geolonia Maps を使った地図アプリ開発を支援するスキル",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "author": {
+    "name": "Geolonia Inc."
+  },
+  "repository": "https://github.com/geolonia/skill",
+  "license": "MIT"
 }
