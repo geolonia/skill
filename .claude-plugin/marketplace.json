@@ -1,0 +1,13 @@
+{
+  "name": "geolonia",
+  "owner": {
+    "name": "miya"
+  },
+  "plugins": [
+    {
+      "name": "maps",
+      "source": ".",
+      "description": "Geolonia Maps を使った地図アプリ開発を支援するスキル"
+    }
+  ]
+}
