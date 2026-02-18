@@ -23,7 +23,7 @@ Geolonia Maps（MapLibre GL JS ベース）を使った地図アプリの開発�
 
 マーケットプレイスから追加してインストールします。
 
-```
+```text
 /plugin marketplace add geolonia/skill
 /plugin install geolonia@geolonia
 ```
@@ -32,13 +32,13 @@ Geolonia Maps（MapLibre GL JS ベース）を使った地図アプリの開発�
 
 地図関連のリクエストをすると、Claude が自動的にスキルを読み込みます。
 
-```
+```text
 「Geolonia Maps で東京タワーにマーカーを置いた地図を作って」
 ```
 
 明示的に呼び出す場合はスラッシュコマンドを使います。
 
-```
+```text
 /geolonia:maps
 ```
 
@@ -69,7 +69,7 @@ claude plugin validate /path/to/skill
 
 ## プラグイン構成
 
-```
+```text
 .claude-plugin/
 └── plugin.json                # プラグイン定義
 skills/
